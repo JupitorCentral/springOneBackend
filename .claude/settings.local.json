@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__postgres-mcp__get_object_details",
+      "mcp__postgres-mcp__execute_sql",
+      "Bash(curl:*)",
+      "mcp__postgres-mcp__analyze_db_health"
+    ],
+    "deny": []
+  }
+}
